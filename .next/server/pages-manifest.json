@@ -1,0 +1,7 @@
+{
+  "/_app": "pages/_app.js",
+  "/_document": "pages/_document.js",
+  "/": "pages/index.js",
+  "/api/get-today-total": "pages/api/get-today-total.js",
+  "/api/log-water": "pages/api/log-water.js"
+}
