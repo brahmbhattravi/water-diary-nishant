@@ -8,10 +8,10 @@ export default function Home() {
   const [loading, setLoading] = useState(true);
 
   const waterAmounts = [
-    { amount: 150, color: '#FF6B6B' },
-    { amount: 300, color: '#4ECDC4' },
-    { amount: 350, color: '#45B7D1' },
-    { amount: 450, color: '#96CEB4' }
+    { amount: 50, color: '#FF6B6B' },
+    { amount: 100, color: '#4ECDC4' },
+    { amount: 150, color: '#45B7D1' },
+    { amount: 200, color: '#96CEB4' }
   ];
 
   const fetchTodayTotal = async () => {
